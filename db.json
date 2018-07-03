@@ -1,8 +1,8 @@
 [
-    {"id": "1", "title" : "eat", "detail" : "breakfast", "completed" : "true"},
-    {"id": "2", "title" : "sleep", "detail" : "atleast half day", "completed" : "false"},
-    {"id": "3", "title" : "laugh", "detail" : "like a maniac", "completed" : "false"},
-    {"id": "4", "title" : "drink", "detail" : "all the coffee", "completed" : "true"},
-    {"id": "5", "title" : "be", "detail" : "a good girl", "completed" : "false"},
-    {"id": "6", "title" : "dance", "detail" : "a jig", "completed" : "true"}
+    {"id": "1", "title" : "eat", "detail" : "breakfast", "completed" : true},
+    {"id": "2", "title" : "sleep", "detail" : "atleast half day", "completed" : false},
+    {"id": "3", "title" : "laugh", "detail" : "like a maniac", "completed" : false},
+    {"id": "4", "title" : "drink", "detail" : "all the coffee", "completed" : true},
+    {"id": "5", "title" : "be", "detail" : "a good girl", "completed" : false},
+    {"id": "6", "title" : "dance", "detail" : "a jig", "completed" : true}
 ]
