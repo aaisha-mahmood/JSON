@@ -1,1 +1,2 @@
-[{},{}]
+[{"id": "1", "title" : "something", "detail" : "detail of something", "completed" : "true"},
+ {"id": "2", "title" : "something else", "detail" : "detail of something else", "completed" : "false"}]
